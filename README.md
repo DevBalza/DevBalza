@@ -46,20 +46,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=DevBalza&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
-###
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/DevBalza/DevBalza/output/snake.svg" alt="Snake animation" />
-
-###
